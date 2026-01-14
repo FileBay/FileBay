@@ -4,8 +4,6 @@
     <br><br>
     <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=FileBay&theme=radical" alt="GitHub Streak">
     <br><br>
-    <img src="https://github-trophies.vercel.app/?username=FileBay&theme=matrix" alt="filebay" />
-    <br><br>
     <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=FileBay&layout=compact&theme=radical" alt="Top Languages">
   </p>
 <h3 align="center">Connect with me:</h3>
