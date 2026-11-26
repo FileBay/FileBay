@@ -2,7 +2,7 @@
 
 Developer, author, investor, and perpetual builder.
 
-Technical Co-Founder and Chief Technology Officer of [291 Group & Co.](https://291group.com), a Veteran-led technology company delivering mission-critical solutions.
+Technical Co-Founder and Chief Technology Officer of [291 Group Inc.](https://291group.com), a Veteran-led technology company delivering mission-critical solutions.
 
 20+ years specializing in signals intelligence, geospatial analysis, distributed systems & automation.
 
